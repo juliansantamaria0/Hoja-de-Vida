@@ -104,6 +104,9 @@ sitio-cv/
 - ✅ Tablet (768px - 991px)
 - ✅ Mobile (< 768px)
 
+### Enlace Netlify
+teal-concha-41645e.netlify.app
+
 
 ## 📞 Información de Contacto
 
